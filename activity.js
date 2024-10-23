@@ -1,5 +1,1 @@
-$(document).ready(function(){
-    $("button").click(function(){
-      $("p").hide();
-    });
-  });
+var connection = new Postmonger.Session();
