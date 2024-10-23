@@ -1,1 +1,1 @@
-var connection = new Postmonger.Session();
+var lodash = require('postmonger');
