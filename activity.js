@@ -1,1 +1,3 @@
-console.log('working')
+$(document).ready(function(){
+    console.log('jquery');
+})
